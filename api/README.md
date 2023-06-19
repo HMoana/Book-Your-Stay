@@ -92,6 +92,22 @@ The purpose of this project is build upon previous the MERN stack project. With 
 
 ---
 
+### **Installation:**
+
+1. Clone the repo 
+
+   ```sh
+   git clone https://github.com/HMoana/Book-Your-Stay.git
+   ```
+
+2. Install NPM packages
+
+   ```sh
+   npm install
+   ```  
+
+---
+
 ### **Features:**
 
 - MERN stack built application

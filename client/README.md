@@ -70,8 +70,6 @@ The purpose of this project is build upon previous the MERN stack project. With 
 
 ---
 
----
-
 ### **Features:**
 
 - MERN stack built application
