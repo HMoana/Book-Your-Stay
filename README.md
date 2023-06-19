@@ -1,2 +1,2 @@
 # Book Your Stay
-## _See the client and server directories to see detailed README files and instructions_
+## _See the client and api directories to see detailed README files and instructions_
