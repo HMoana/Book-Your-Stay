@@ -1,6 +1,6 @@
 # Book Your Stay
 
-## MERN stack, JWT, Cookies, API
+## MERN stack, JWT, Cookies, Context API
 ---
 
 ### **Overview**
