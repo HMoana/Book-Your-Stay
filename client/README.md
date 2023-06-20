@@ -13,7 +13,7 @@ Created a hotel booking application a using MERN stack, JWT, cookies and API.
 
 ### **Purpose**
 
-The purpose of this project is build upon previous the MERN stack project. With a key focus on using MongoDB Atlas, using Mongoose to create schemas and models. From there use API to create a full stack application. Attempt to authenticate user in the backend.
+The purpose of this project is build upon previous the MERN stack project. With a key focus on using MongoDB Atlas, using Mongoose to create schemas and models. From there use the React tool Context API to manage the frontend. Finally to attempt user authentication.
 
 ### **Built with:**
 
@@ -74,7 +74,7 @@ The purpose of this project is build upon previous the MERN stack project. With 
 
 - MERN stack built application
 - Incorporated custom hooks and Proxy
-- React feature context api
+- React tool Context API
 
 ---
 
