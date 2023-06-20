@@ -5,7 +5,7 @@
 
 ### **Overview**
 
-Created a hotel booking application a using MERN stack, JWT, cookies and API.
+Created a hotel booking application a using MERN stack, JWT, cookies and Context API.
 
 ---
 
@@ -110,7 +110,7 @@ The purpose of this project is build upon previous the MERN stack project. With 
 
 ### **Features:**
 
-- MERN stack built application
+- Built MERN stack application
 - Incorporated authentication features
 - Database built with MongoDB Atlas, Mongoose Schemas and Models
 
