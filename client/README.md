@@ -80,9 +80,7 @@ The purpose of this project is build upon previous the MERN stack project. With 
 
 ### **Future improvements:**
 
-- Improve search bar function
 - Improve code smells
-- Complete register and login pages
 
 ---
 
