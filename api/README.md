@@ -1,11 +1,11 @@
 # Book Your Stay
 
-## MERN stack, JWT, Cookies, Context API
+## MERN stack, Bcrypt, JWT, Cookies, Context API
 ---
 
 ### **Overview**
 
-Created a hotel booking application a using MERN stack, JWT, cookies and Context API.
+Created a hotel booking application a using MERN stack, Bcrypt, JWT, Cookies, Context API
 
 ---
 
